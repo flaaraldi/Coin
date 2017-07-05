@@ -1,0 +1,17 @@
+- Mudar cor das grids de compra e venda conforme sua relevancia.
+	BITCOIN
+	0 até 1 não é relevante
+	1 até 4 é pouco relevante 
+	5 até 10 é relevante
+	10 até 15 é muito relevante
+	acima de 15 maior relevância
+	
+	LITECOIN
+	0 até 1 não é relevante
+	1 até 4 é pouco relevante 
+	5 até 10 é relevante
+	10 até 15 é muito relevante
+	acima de 15 maior relevância
+	
+- Criar Grafico apresentando as informações.
+- Mudar o logo (não representar nenhuma corretora) e a cor, deixando mais discreto.
